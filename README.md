@@ -2,7 +2,7 @@ Education-related disparities in reported physical activity during leisure-time,
 repeated cross-sectional analysis from the National Health and Nutrition Examination
 Surveys, 2007 to 2016. BMC Public Health 2018. 18:926.
 
-Shaun Scholes<sup>1 and David Bann</sup>2
+Shaun Scholes<sup>1 and David Bann<sup>2
 
 Abstract
 
