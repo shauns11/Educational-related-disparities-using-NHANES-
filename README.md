@@ -3,6 +3,10 @@ repeated cross-sectional analysis from the National Health and Nutrition Examina
 Surveys, 2007 to 2016.** *BMC Public Health* 2018. 18:926.
 
 Shaun Scholes<sup>1</sup> and David Bann<sup>2<sup>
+  
+<sup>1</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom.
+
+<sup>2</sup> Centre for Longitudinal Studies, University College London Institute of Education, London, UK.
 
 **Abstract**
 
