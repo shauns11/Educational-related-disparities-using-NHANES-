@@ -1,4 +1,4 @@
-# **Education-related disparities in reported physical activity during leisure-time, active transportation, and work among US adults:
+# ** Education-related disparities in reported physical activity during leisure-time, active transportation, and work among US adults:
 repeated cross-sectional analysis from the National Health and Nutrition Examination
 Surveys, 2007 to 2016.** 
 
